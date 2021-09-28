@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_20210816-130838](https://user-images.githubusercontent.com/80505366/129595544-315f3c0f-da5e-4d9c-a45a-0a54df361aee.jpg)
 ![Screenshot_20210816-131032](https://user-images.githubusercontent.com/80505366/129595577-826a718c-dbb7-437d-b0a6-20fe396cb5d7.jpg)
 
-The app is a bit incomplete as it is mostly the front end design an dlacks backend implementation.
+The app is a bit incomplete as it is mostly the front end design as it lacks backend implementation.
 I hope you like it.
